@@ -1,0 +1,1 @@
+Proyecto anclado a docker hub para generar la imagen con el servicio automaticamente
